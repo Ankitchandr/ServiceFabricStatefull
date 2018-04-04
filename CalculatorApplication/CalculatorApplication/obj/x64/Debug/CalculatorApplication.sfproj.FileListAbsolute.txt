@@ -1,0 +1,1 @@
+F:\Servicefabric\AzureServiceFabricSample\Chapter02\CalculatorApplication\CalculatorApplication\obj\x64\Debug\CalculatorApplication.sfproj.CoreCompileInputs.cache
